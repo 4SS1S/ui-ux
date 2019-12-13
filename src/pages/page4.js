@@ -16,7 +16,7 @@ export default function Page2({ active }) {
         Sem eles a internet seria como era no final <br />dos anos 90 e inicio dos
         anos 2000
         <a href="https://www.marvel.com/captainmarvel/">
-          <img src="https://assets.b9.com.br/wp-content/uploads/2019/02/captainmarvel-1280x720.jpg" width="80" />
+          <img src="https://assets.b9.com.br/wp-content/uploads/2019/02/captainmarvel-1280x720.jpg" width="90" />
         </a>
       </div>
     </Page>
