@@ -13,10 +13,10 @@ export default function Page2({ active }) {
       <div
         style={{ fontSize: 30, color: "#fff", fontWeight: "bold", padding: 30 }}
       >
-        Sem eles a internet seria como era no final dos anos 90 e inicio dos
+        Sem eles a internet seria como era no final <br />dos anos 90 e inicio dos
         anos 2000
         <a href="https://www.marvel.com/captainmarvel/">
-          <img src="https://assets.b9.com.br/wp-content/uploads/2019/02/captainmarvel-1280x720.jpg" />
+          <img src="https://assets.b9.com.br/wp-content/uploads/2019/02/captainmarvel-1280x720.jpg" width="80" />
         </a>
       </div>
     </Page>
